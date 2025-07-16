@@ -77,7 +77,7 @@ s.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
 ---
