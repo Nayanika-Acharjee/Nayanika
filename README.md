@@ -17,7 +17,7 @@
 
 - 🎓 I’m a **Software Engineering undergraduate** with a strong focus on problem solving and building impactful solutions.
 - 🌟 Currently exploring **DSA, Web Development, and Machine Learning**.
-- 🏆 Solved **[your number]+ problems** across LeetCode, CodeChef, and GFG.
+- 🏆 Solved **500++ problems** across LeetCode, CodeChef, and GFG.
 - ✍️ I write clean, maintainable code and love learning new paradigms.
 - 💬 Ask me about **DSA, C++, React, and developer productivity**.
 - ⚡ Fun fact: *I believe debugging teaches humility faster than life does.*
@@ -59,7 +59,7 @@ s.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak"/>
+  
 </p>
 
 <p align="center">
